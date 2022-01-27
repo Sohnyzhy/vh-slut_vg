@@ -22,3 +22,6 @@ Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/M
 
 ## Författare
 [@johan-at-grit](https://github.com/johan-at-grit/)
+
+
+Alla issues är lösta och sidan är publicerad på githubpages. 
