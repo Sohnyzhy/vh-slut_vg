@@ -16,7 +16,9 @@ a:hover > p {
 }
 
 body {
-   background-color: darkolivegreen;
+  
+   background-color: #5ca0f2;
+   background-image: linear-gradient(315deg, #5ca0f2 0%, #f5f7f6 74%);
 }
 
 .footer {
@@ -28,7 +30,7 @@ body {
    flex-direction: column;
    width: 100%;
    font-size: 1.5em;
-   background:rgba(255, 255, 255, 0.37); 
+   
 }
 
 .content {
