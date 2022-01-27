@@ -13,3 +13,11 @@
    text-transform: uppercase;
    padding: 1em;
 }  
+
+
+@media screen and (max-width: 1200px) {
+   .navigation {flex-direction: column;
+      gap: 15px;
+    
+   }
+ }
